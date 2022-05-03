@@ -130,3 +130,5 @@ mintegral.com, 10038, RESELLER
 meitu.com, 282, RESELLER
 algorix.co, 54616, RESELLER
 exchange.admazing.co, AM3, RESELLER
+bidease.com, exchange-20, RESELLER
+admixplay.com, 2012, RESELLER
