@@ -176,3 +176,4 @@ bidease.com, exchange-20, RESELLER
 inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 062029933580429f9920bad476d8d70a, RESELLER, 83e75a7ae333ca9d
 lemmatechnologies.com, 362, RESELLER, 7829010c5bebd1fb
+algorix.co, 60016, RESELLER
