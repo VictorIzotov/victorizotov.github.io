@@ -109,3 +109,8 @@ Pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
 videoheroes.tv, 212499, RESELLER, 064bc410192443d8
 smartadserver.com, 3964, RESELLER
 advlion.com, 5140, RESELLER
+adview.com, 48045325, RESELLER, 1b2cc038a11ea319
+thebrave.io, 9840732, RESELLER, c25b2154543746ac
+thebrave.io, 1234594, RESELLER, c25b2154543746ac
+pubnative.net, 1007063, RESELLER, d641df8625486a7b
+pubnative.net, 1003601, RESELLER, d641df8625486a7b
