@@ -128,3 +128,4 @@ appnexus.com, 11826, RESELLER
 spotxchange.com, 149886, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
 video.unrulymedia.com, 170071695, RESELLER
+pubmatic.com, 158565, RESELLER, 5d62403b186f2ace
