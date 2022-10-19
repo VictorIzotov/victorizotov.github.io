@@ -118,3 +118,4 @@ bidmachine.io, 113, RESELLER
 bidmachine.io, 114, RESELLER
 bidmachine.io, 67, RESELLER
 kidoz.net, 19692013, RESELLER
+Xapads.com, 117219, RESELLER
