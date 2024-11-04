@@ -294,3 +294,12 @@ videoheroes.tv, 212550, RESELLER, 064bc410192443d8
 visiblemeasures.com, 1020, RESELLER
 webeyemob.com, 80029, RESELLER
 zmaticoo.com, 5135704, RESELLER
+pubmatic.com, 164119, RESELLER, 5d62403b186f2ace
+improvedigital.com, 2464, RESELLER
+pubmatic.com, 165116, RESELLER, 5d62403b186f2ace
+media.net, 8cu12aq1y, RESELLER
+sharethrough.com, k5wdgasp, RESELLER, d53b998a7bd4ecd2
+lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
+video.unrulymedia.com, 436487936, RESELLER
+voisetech.com, 1066, RESELLER
+lijit.com, 511365, RESELLER, fafdf38b16bf6b2b
