@@ -303,3 +303,6 @@ lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
 video.unrulymedia.com, 436487936, RESELLER
 voisetech.com, 1066, RESELLER
 lijit.com, 511365, RESELLER, fafdf38b16bf6b2b
+pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4467, RESELLER
+onetag.com, 5d1628750185ace, RESELLER
